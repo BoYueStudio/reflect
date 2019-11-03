@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+    <team id="team1" class="com.bean.Team1">
+        <property name="username" value="张三"></property>
+        <property name="password" value="123"></property>
+        <property name="phone" value="18833029507"></property>
+    </team>
+    
+        <team id="team2" class="com.bean.Team1">
+        <property name="username" value="李四"></property>
+        <property name="password" value="456"></property>
+        <property name="phone" value="15568952301"></property>
+    </team>
+</teams>
